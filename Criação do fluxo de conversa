@@ -20,13 +20,13 @@ Personalização de mensagens de erro:
   O copiloto pode não entender algumas perguntas por: falta de informação, formato incorreto, respotas incoerentes, etc, e a forma como ele lida com isso é fundamental para a experiência do usuário. 
   É possível personalizar as mensagens de erro para que sejam mais amigáveis e úteis, guiando o usuário a reformular a pergunta ou a buscar ajuda humana.
 
-Controle da generalidade(temperatura) da IA:
+Controle da generatividade(temperatura) da IA:
   A capacidade da IA de gerar respostas com seu próprio "conhecimento geral" pode ser controlada para garantir que o copiloto seja preciso e seguro. 
-  No Copilot Studiose pode controlar a generalidade da seguinte forma:
-    Diminuição da generalidade: 
+  No Copilot Studiose pode controlar a generatividade da seguinte forma:
+    Diminuição da generatividade: 
         Restringe as respostas do copiloto apenas às informações que você forneceu. 
         Isso é ideal para casos que exigem precisão absoluta, como um copiloto para questões de conformidade ou políticas internas da empresa.
-    Aumento da generalidade: 
+    Aumento da generatividade: 
         Permite que a IA use seu conhecimento para gerar respostas de forma mais criativa e menos restrita. 
         Essa abordagem é útil para criar copilotos com um tom mais natural e conversacional, capazes de lidar com uma variedade maior de perguntas.
 
