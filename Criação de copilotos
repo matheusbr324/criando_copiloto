@@ -1,0 +1,25 @@
+Criação de agentes copilot com o Copilot Studio
+  O Copilot Studio é uma plataforma que permite a criação de agentes de IA, também conhecidos como copilotos, de forma flexível e personalizável. 
+  É possivel começar a criar um agente de três maneiras diferentes, dependendo da necessidade e do nível de experiência.
+
+1. Criação a partir de um modelo pré-existente
+  Essa é a forma mais rápida de começar, ideal para quem precisa de uma solução pronta e funcional. 
+  O Copilot Studio oferece modelos pré-existentes de agentes de IA, como um copiloto para suporte ao cliente ou um para vendas. 
+  Esses modelos já vêm com funcionalidades e fluxos de conversa predefinidos. 
+  Você só precisa selecionar o modelo que melhor se adapta ao seu caso de uso, e ele estará pronto para ser usado. 
+  Depois, você pode personalizá-lo para que ele se ajuste às suas necessidades específicas.
+
+2. Criação a partir de um modelo em branco
+  Para quem quer total controle e flexibilidade, a melhor opção é começar do zero. 
+  A criação a partir de um modelo em branco permite que você construa seu agente copilot passo a passo. 
+  Você pode definir os tópicos, as ações e os fluxos de conversa do zero, sem as limitações de um modelo pré-existente. 
+  Essa abordagem é mais indicada para desenvolvedores ou usuários que desejam criar um agente completamente único e específico para uma tarefa muito particular.
+
+3. Criação baseada em descrição
+  Se você tem uma ideia clara do que o seu agente precisa fazer, mas não quer construí-lo do zero, a criação baseada em descrição é a solução perfeita. 
+  Você simplesmente descreve com suas palavras o objetivo do agente, por exemplo: "crie um copiloto para responder perguntas sobre o menu do meu restaurante". 
+  O Copilot Studio, usando IA generativa, interpreta a sua descrição e gera um rascunho do agente, incluindo tópicos, frases de gatilho e fluxos de conversa iniciais. 
+  A partir daí, você pode editar e refinar o agente para que ele funcione exatamente como você imaginou.
+
+Em resumo, o Copilot Studio oferece três caminhos para a criação de agentes de IA, desde a agilidade de modelos pré-existentes, passando pela flexibilidade de um modelo em branco, até a conveniência de gerar um agente a partir de uma descrição.
+Lembrando que a plataforma permite a realização de alterações em todos os casos de criação do copiloto, assim como também é possivel limitar a generatividade da IA empregada e fornecer quais dados serão usados como fonte de informaçao para a geração das respostas.
