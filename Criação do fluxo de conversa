@@ -1,0 +1,33 @@
+Criação de um fluxo de conversa de um copiloto no Copilot Studio:
+  O Copilot Studio oferece formas de moldar o comportamento e as interações de um agente de IA.
+  A principal forma para isso é o fluxo de conversa, que determina como o copiloto responde às perguntas e solicitações dos usuários.
+
+Criação do fluxo de conversa em um copiloto em branco:
+  Ao criar um copiloto do zero se tem controle total sobre o fluxo. 
+  Para começar, define-se os tópicos que o copiloto deve abordar. 
+  Cada tópico representa um assunto específico, como por exemplo: "horário de funcionamento" ou "status do pedido". 
+  Dentro de cada tópico, pode-se configurar:
+    - Frases de gatilho:  São as palavras e expressões que os usuários podem usar para iniciar a conversa sobre aquele tópico. 
+                          Por exemplo: para um tópico sobre horários, as frases de gatilho podem ser "qual é o horário de atendimento?" ou "vocês abrem no fim de semana?".
+    
+    - Fluxo de conversa:  É o caminho que o copiloto segue para responder. 
+                          São possíveis as criações de: sequências de perguntas, condicionais e respostas até que se chegue à solução ou informação que o usuário precisa.
+
+Customização de tópicos: 
+  Existe a possiblidade de editar, adicionar ou remover tópicos a qualquer momento e isso é crucial para manter seu copiloto atualizado, relevante e organizado.
+
+Personalização de mensagens de erro: 
+  O copiloto pode não entender algumas perguntas por: falta de informação, formato incorreto, respotas incoerentes, etc, e a forma como ele lida com isso é fundamental para a experiência do usuário. 
+  É possível personalizar as mensagens de erro para que sejam mais amigáveis e úteis, guiando o usuário a reformular a pergunta ou a buscar ajuda humana.
+
+Controle da generalidade(temperatura) da IA:
+  A capacidade da IA de gerar respostas com seu próprio "conhecimento geral" pode ser controlada para garantir que o copiloto seja preciso e seguro. 
+  No Copilot Studiose pode controlar a generalidade da seguinte forma:
+    Diminuição da generalidade: 
+        Restringe as respostas do copiloto apenas às informações que você forneceu. 
+        Isso é ideal para casos que exigem precisão absoluta, como um copiloto para questões de conformidade ou políticas internas da empresa.
+    Aumento da generalidade: 
+        Permite que a IA use seu conhecimento para gerar respostas de forma mais criativa e menos restrita. 
+        Essa abordagem é útil para criar copilotos com um tom mais natural e conversacional, capazes de lidar com uma variedade maior de perguntas.
+
+Em resumo, o Copilot Studio te dá todas as ferramentas para construir um fluxo de conversa eficiente e seguro, seja partindo de um tópico em branco ou personalizando mensagens de erro, tudo isso com um controle total sobre o grau de autonomia da sua IA.
